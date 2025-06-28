@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -48,7 +48,7 @@ const config: QuartzConfig = {
           dark: "#6D2323", //header
           secondary: "#6D2323", //link
           tertiary: "#A31D1D", //hover
-          highlight: "rgba(143, 159, 169, 0.15)",
+          highlight: "rgba(218, 141, 41, 0.15)",
           textHighlight: "#fff23688",
         },
         darkMode: {
@@ -59,7 +59,7 @@ const config: QuartzConfig = {
           dark: "#FFBF78",  //header text, icons
           secondary: "#E0C097", //Anushka header, link color, current graph node
           tertiary: "#D89216", //hover states and visited node
-          highlight: "rgba(143, 159, 169, 0.15)", //internal link
+          highlight: "rgba(216, 156, 44, 0.15)", //internal link
           textHighlight: "#5C3D2E", //markdown highlight
         },
       },

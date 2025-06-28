@@ -1,9 +1,8 @@
 ---
 title: 
 draft: true
-tags: 
-created: "{{date}}"
-last-modified: "{{date}}"
+tags:
+  - "#seed"
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)

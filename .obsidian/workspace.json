@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Moving to Barcelona.md",
+                "file": "content/Colophon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moving to Barcelona"
+              "title": "Colophon"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "b4a3a3ceec1413fd",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/Colophon.md",
+    "content/Moving to Barcelona.md",
     "templates/Note-template.md",
     "CODE_OF_CONDUCT.md",
     "content/Burnout in 3 acts.md",
@@ -182,10 +185,8 @@
     "content/Map Of Content.md",
     "content/Anti-Library.md",
     "content/Medical.md",
-    "content/Moving to Barcelona.md",
     "content/date.md",
     "content/Untitled 1.md",
-    "content/index.md",
     "content/India.md",
     "public/tags/food.html",
     "public/tags/seed.html",
@@ -216,7 +217,6 @@
     "public/Cloud-Skills.html",
     "content/Things I've tried.md",
     "content/Young nations and their evolving identity in Media.md",
-    "content/Immigration.md",
     "public/index-og-image.webp"
   ]
 }

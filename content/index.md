@@ -10,5 +10,8 @@ These days, I'm thinking a lot about  [[Life]], [[Economics]], and [[Learning]].
 
 Check out [[What even is a digital garden]] is you're curious about the concept!
 
+[[Colophon]]
+
+
 
 

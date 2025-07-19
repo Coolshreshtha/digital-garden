@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "458e33dfe27a692a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b56e1b5d91fc6ac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4a3a3ceec1413fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Moving to Barcelona.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Moving to Barcelona"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db9c73e41572eeb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbf84e8cbdb9ff4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f035bcac8e67756f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce5864cfc3216318",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53ef6909c647eedb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d9a8f44bc419e19",
+    "type": "split",
+    "children": [
+      {
+        "id": "841826f7e71fd7ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a03a512a875131a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/Flights.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Flights"
+            }
+          },
+          {
+            "id": "078daf95aa7463c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/Cloud Skills.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cloud Skills"
+            }
+          },
+          {
+            "id": "f6db86fa97b79fd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "55d15a91ff290380",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/Cloud Skills.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cloud Skills"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b4a3a3ceec1413fd",
+  "lastOpenFiles": [
+    "templates/Note-template.md",
+    "CODE_OF_CONDUCT.md",
+    "content/Burnout in 3 acts.md",
+    "content/Burnout Recovery Toolkit.md",
+    "content/NYC.md",
+    "content/Motivation.md",
+    "content/What even is a digital garden.md",
+    "content/Map Of Content.md",
+    "content/Anti-Library.md",
+    "content/Medical.md",
+    "content/Moving to Barcelona.md",
+    "content/date.md",
+    "content/Untitled 1.md",
+    "content/index.md",
+    "content/India.md",
+    "public/tags/food.html",
+    "public/tags/seed.html",
+    "public/date-og-image.webp",
+    "public/date.html",
+    "public/Learning-og-image.webp",
+    "public/Learning.html",
+    "content/Cool Links.md",
+    "content/Thoughts from Meditations for Mortals by Oliver Burkeman.md",
+    "content/Personal Finance Toolkit (US).md",
+    "content/Learning.md",
+    "content/Now.md",
+    "content/2025-06-25.md",
+    "content/Emotional Health Toolkit.md",
+    "content/Boobs.md",
+    "public/self-development-og-image.webp",
+    "public/Now-og-image.webp",
+    "public/Map-Of-Content-og-image.webp",
+    "public/Managing-a-career-og-image.webp",
+    "public/Cool-Links-og-image.webp",
+    "public/Cloud-Skills-og-image.webp",
+    "public/self-development.html",
+    "public/Now.html",
+    "public/Map-Of-Content.html",
+    "public/Managing-a-career.html",
+    "public/Anti-Library-og-image.webp",
+    "public/Cool-Links.html",
+    "public/Cloud-Skills.html",
+    "content/Things I've tried.md",
+    "content/Young nations and their evolving identity in Media.md",
+    "content/Immigration.md",
+    "public/index-og-image.webp"
+  ]
+}

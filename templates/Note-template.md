@@ -1,7 +1,8 @@
 ---
 title: 
 draft: true
-tags: 
+tags:
+  - seed
 created: "{{date}}"
 last-modified: "{{date}}"
 ---

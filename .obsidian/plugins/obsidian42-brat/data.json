@@ -1,0 +1,21 @@
+{
+  "pluginList": [
+    "marcusolsson/obsidian-projects"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "marcusolsson/obsidian-projects",
+      "version": "1.17.4"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}

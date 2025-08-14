@@ -4,24 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "b56e1b5d91fc6ac5",
+        "id": "dd57504fce128139",
         "type": "tabs",
         "children": [
           {
-            "id": "b4a3a3ceec1413fd",
+            "id": "8968d36acf921021",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "content/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
+          },
+          {
+            "id": "550796434d9171d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Colophon.md",
+                "file": "content/Move to Barcelona.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colophon"
+              "title": "Move to Barcelona"
+            }
+          },
+          {
+            "id": "770154e43434ec0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Spanish/Learning Spanish.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning Spanish"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -34,19 +68,6 @@
         "id": "dbf84e8cbdb9ff4d",
         "type": "tabs",
         "children": [
-          {
-            "id": "f035bcac8e67756f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": true
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "ce5864cfc3216318",
             "type": "leaf",
@@ -73,8 +94,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "2def0dce8436c194",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -142,71 +177,89 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Cloud Skills.md",
+                "file": "content/Graduate School.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cloud Skills"
+              "title": "Outline of Graduate School"
+            }
+          },
+          {
+            "id": "e49b1abc446a5fb9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "big-calendar:Big Calendar": false,
+      "templater-obsidian:Templater": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "b4a3a3ceec1413fd",
+  "active": "770154e43434ec0d",
   "lastOpenFiles": [
-    "content/index.md",
-    "content/Colophon.md",
-    "content/Moving to Barcelona.md",
+    "content/Move to Barcelona.md",
+    "content/Spanish/Learning Spanish.md",
     "templates/Note-template.md",
-    "CODE_OF_CONDUCT.md",
-    "content/Burnout in 3 acts.md",
-    "content/Burnout Recovery Toolkit.md",
+    "content/Spanish",
+    "README.md",
+    "content/Spain Student Visa.md",
+    "content/Untitled Kanban.md",
+    "content/Obsidian Plugins.md",
+    "content/Now.md",
+    "content/Planning Procrastination.md",
+    "Untitled.md",
     "content/NYC.md",
     "content/Motivation.md",
-    "content/What even is a digital garden.md",
+    "content/Boobs.md",
+    "content/Life Systems.md",
+    "content/Grad School Systems.md",
+    "content/Graduate School.md",
     "content/Map Of Content.md",
-    "content/Anti-Library.md",
-    "content/Medical.md",
-    "content/date.md",
-    "content/Untitled 1.md",
+    "content/Life.md",
+    "content/Setting up systems for graduate school.md",
+    "content/Colophon.md",
+    "content/LSE Workshop about Data Sets.md",
+    "content/Cool Links.md",
+    "content/Learning.md",
+    "content/Emotional Health Toolkit.md",
+    "public/Cool-Links-og-image.webp",
     "content/India.md",
+    "content/Burnout in 3 acts.md",
+    "Untitled.canvas",
     "public/tags/food.html",
     "public/tags/seed.html",
     "public/date-og-image.webp",
     "public/date.html",
     "public/Learning-og-image.webp",
     "public/Learning.html",
-    "content/Cool Links.md",
-    "content/Thoughts from Meditations for Mortals by Oliver Burkeman.md",
-    "content/Personal Finance Toolkit (US).md",
-    "content/Learning.md",
-    "content/Now.md",
-    "content/2025-06-25.md",
-    "content/Emotional Health Toolkit.md",
-    "content/Boobs.md",
     "public/self-development-og-image.webp",
     "public/Now-og-image.webp",
     "public/Map-Of-Content-og-image.webp",
     "public/Managing-a-career-og-image.webp",
-    "public/Cool-Links-og-image.webp",
     "public/Cloud-Skills-og-image.webp",
     "public/self-development.html",
     "public/Now.html",
@@ -214,9 +267,6 @@
     "public/Managing-a-career.html",
     "public/Anti-Library-og-image.webp",
     "public/Cool-Links.html",
-    "public/Cloud-Skills.html",
-    "content/Things I've tried.md",
-    "content/Young nations and their evolving identity in Media.md",
     "public/index-og-image.webp"
   ]
 }

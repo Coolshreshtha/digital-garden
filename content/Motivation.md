@@ -3,6 +3,7 @@ title:
 draft: true
 tags:
   - "#seed"
+created: 2025-07-25
+last-modified: 2025-07-25
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)

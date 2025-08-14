@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "content",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9ba0b2e4-865c-42ff-b987-00d123011272",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "dateField": "last-modified",
+            "interval": "month"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "f7041d35-8733-4989-a58c-91453528b9d1",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "f61b856e-b61e-445d-b151-09b33694a038",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "fb2f755f-47c4-4bef-863b-8c4c5caf3509",
+      "name": "All Nodes"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "monday"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

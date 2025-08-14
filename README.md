@@ -1,4 +1,4 @@
-Code for my personal digital-garden, hosted on Quartz.  Original Read me continues below!
+Code for my personal digital-garden, hosted using Quartz and Github Pages.  Original Read me continues below!
 
 
 # Quartz v4

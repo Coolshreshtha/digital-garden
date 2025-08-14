@@ -7,6 +7,10 @@
     "node_modules/",
     "docs/",
     "quartz/",
-    "public/"
-  ]
+    "public/",
+    "CODE_OF_CONDUCT",
+    "README",
+    "templates/"
+  ],
+  "trashOption": "local"
 }

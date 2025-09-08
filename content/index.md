@@ -7,10 +7,9 @@ This is my digital garden, a sneak peak of what's going on in my mind and life t
 
 These days, I'm thinking a lot about  [[Life]], [[Economics]], and [[Learning]]. Check out the [[Now]] for a place to start!
 
+Read [[What even is a digital garden]] if you're curious about the concept!
 
-Check out [[What even is a digital garden]] is you're curious about the concept!
-
-[[Colophon]]
+See how I made this website on [[Colophon]]
 
 
 

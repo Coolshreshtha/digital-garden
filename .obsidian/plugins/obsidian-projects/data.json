@@ -33,25 +33,6 @@
           "type": "table"
         },
         {
-          "config": {
-            "dateField": "last-modified",
-            "interval": "month"
-          },
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "f7041d35-8733-4989-a58c-91453528b9d1",
-          "name": "Calendar",
-          "type": "calendar"
-        },
-        {
           "config": {},
           "filter": {
             "conjunction": "and",
@@ -63,9 +44,9 @@
           "sort": {
             "criteria": []
           },
-          "id": "f61b856e-b61e-445d-b151-09b33694a038",
-          "name": "Gallery",
-          "type": "gallery"
+          "id": "08c27f05-9f49-490a-88e1-9f865301403c",
+          "name": "Board",
+          "type": "board"
         }
       ],
       "id": "fb2f755f-47c4-4bef-863b-8c4c5caf3509",

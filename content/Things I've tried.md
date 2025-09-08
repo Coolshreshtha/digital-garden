@@ -30,3 +30,4 @@ Canoeing
 Golf
 Interpretive Dance
 Gurmukhi
+Sailing

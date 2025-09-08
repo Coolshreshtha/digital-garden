@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Why I'm studying Economics.md",
+                "file": "content/Grad School Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why I'm studying Economics"
+              "title": "Grad School Systems"
+            }
+          },
+          {
+            "id": "61d8a911550f8d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning"
             }
           },
           {
@@ -216,9 +230,14 @@
   },
   "active": "d9e0ab1e60bab40b",
   "lastOpenFiles": [
-    "content/Now.md",
-    "content/Why I'm studying Economics.md",
     "content/Graduate School.md",
+    "content/Why I'm studying Economics.md",
+    "content/Move to Barcelona.md",
+    "content/Now.md",
+    "content/Learning.md",
+    "content/index.md",
+    "content/Things I've tried.md",
+    "templates/Note-template.md",
     "content/Immigration.md",
     "content/LSE Workshop about Data Sets.md",
     "content/Motivation.md",
@@ -227,21 +246,16 @@
     "content/Projects.md",
     "content/Grad School Systems.md",
     "content/First week.md",
-    "content/Things I've tried.md",
     "Untitled.md",
     "content/Anti-Library.md",
     "content/Colophon.md",
     "content/What even is a digital garden.md",
-    "content/index.md",
     "content/Boobs.md",
     "content/Spain Student Visa.md",
-    "content/Move to Barcelona.md",
     "content/Spanish/Learning Spanish.md",
     "Untitled Kanban.md",
     "content/Untitled.md",
     "content/Burnout Recovery Toolkit.md",
-    "content/Movement.md",
-    "templates/Note-template.md",
     "content/Spanish",
     "public/Cool-Links-og-image.webp",
     "Untitled.canvas",

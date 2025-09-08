@@ -3,6 +3,7 @@ title:
 draft: false
 tags:
   - seed
+  - personal
 created: 2025-09-08
 last-modified: 2025-09-08
 ---

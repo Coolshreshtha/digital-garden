@@ -1,5 +1,7 @@
 ---
 title: Welcome to my Digital-Garden
+tags:
+  - evergreen
 ---
 ## Hi, I'm Anushka
 

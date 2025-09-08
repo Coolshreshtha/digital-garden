@@ -33,7 +33,9 @@
           "type": "table"
         },
         {
-          "config": {},
+          "config": {
+            "includeFields": []
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []

@@ -11,10 +11,14 @@
             "id": "d9e0ab1e60bab40b",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "markdown",
+              "state": {
+                "file": "content/First week.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First week"
             }
           },
           {
@@ -37,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "content/Colophon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Colophon"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,18 +214,21 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9294c47717b4a308",
+  "active": "d9e0ab1e60bab40b",
   "lastOpenFiles": [
-    "content/index.md",
+    "content/Now.md",
+    "content/Things I've tried.md",
+    "Untitled.md",
+    "content/Anti-Library.md",
+    "content/Colophon.md",
     "content/What even is a digital garden.md",
+    "content/index.md",
     "content/Boobs.md",
     "content/Spain Student Visa.md",
     "content/Move to Barcelona.md",
-    "Untitled.md",
     "content/Spanish/Learning Spanish.md",
-    "content/Untitled Kanban.md",
+    "Untitled Kanban.md",
     "content/Untitled.md",
-    "content/Colophon.md",
     "content/First week.md",
     "content/Burnout Recovery Toolkit.md",
     "content/Movement.md",
@@ -230,7 +236,6 @@
     "content/Spanish",
     "README.md",
     "content/Obsidian Plugins.md",
-    "content/Now.md",
     "content/Planning Procrastination.md",
     "content/NYC.md",
     "content/Motivation.md",
@@ -238,8 +243,6 @@
     "content/Grad School Systems.md",
     "content/Graduate School.md",
     "content/Map Of Content.md",
-    "content/Life.md",
-    "content/Setting up systems for graduate school.md",
     "public/Cool-Links-og-image.webp",
     "Untitled.canvas",
     "public/tags/food.html",

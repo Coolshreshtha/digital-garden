@@ -1,5 +1,15 @@
-This website was built using Quartz and hosted on Github Pages.
+---
+title:
+draft: true
+tags:
+  - evergreen
+created: 2025-09-08
+last-modified: 2025-09-08
+---
+ 
+I built this website using Quartz and host it on Github Pages.
 
-On my end, I use Obsidian to manage the content, and Git plugin on Obsidian to version control and sync with Github.
+Quartz would superbly with Obsidian, which I use as my writing "IDE". I use the  Git plugin on Obsidian to version control and sync with Github (more on my Obsidian setup on [[Obsidian Plugins]])
 
-Will add more info as I add bells and whistles to the site
+For appearance, I basically tweaked the hexadecimals on in the Quartz config until I liked them :)
+

@@ -2,7 +2,7 @@
 title:
 draft: false
 tags:
-  - seed
+  - evergreen
 ---
 tl;dr : Your digital garden is your little corner of the internet that is personalized, not algorithm driven, and intentional. It is also semi-public, so makes for a great playground to learn in public, and share your process with the world.
 

@@ -1,16 +1,28 @@
+---
+title:
+draft: true
+tags:
+  - seed
+created: 2025-09-08
+last-modified: 2025-09-08
+---
+A quick guide on my 2.5 month long Spain Student Visa process!
 ### Visa Type
-My program is a year long, so I have to National Long Duration type.
+Student visa for a long-term program falls under the National Long Duration type.
 ### Paperwork
 I have applied for and gotten many visas before, but this one by far took the most paperwork and back and forth. Here's what the process looked like for me
 #### 1. Background Check/ FBI record
-I started the process with this because it would take the longest time, depending on where you live. 
-For the US: I submitted a request online through the [FBI website]() ($18 ) and then submitted my fingerprints (electronic or through mail). If you're in the US, you can stop by any authorized service, but since I was travelling, I had to get my fingerprints done and then mail them to FBI office ( about 40 pounds using a sign up promotion and took around 2wk to get a receipt notice). Once I got the electronic version of the document, I sent it for expedited apostille with Monument. [Monument](https://monumentvisa.com/fbi-apostille/) (you can do this yourself of with a different service).
-Took 9 days for FBi to process my fingerprint card, but no notifications so I was anxious.  Exactly 2 weeks by Monument under rush service.
-I also had to mail the documents to India that took a bit more than a week. Then submitted it for translation at a local service. I used[IVS Global](), they were pretty on time, but as with anything in India, contact them often and tell them your deadline in order to get stuff done on time. I say this because I booked an initial appointment, and then had to cancel it for no refund. Depending on availability, wait until you are certain of all documents before booking. BLS website is also hella janky, so once i cancelled an appt, i had to wait 48hrs cooldown period, WHICH they are not clear about at all, so i logged in in 2 calendar days. Which caused a 4day delay.
+I recommend starting with this, since it can be the longest step of the process depending on where you live. 
 
-BLS is also super annoying in that they take everything you give them. 
+For a US FBI certificate (sometimes called the background check)
+	* Submit a request online through the [FBI website]() ($18) and then submit  fingerprints (in person through an authorized center or through mail for non-US citizens living abroad). Expect the postage and processing to take a couple weeks each, and a pretty penny depending on where you are mailing from internationally
+	* Once you get the electronic version of the document, send it for apostille. I used expedited service from [Monument](https://monumentvisa.com/fbi-apostille/), but you can do this yourself of with a different service)
+	 * The last step with this document is getting a sworn translation into Spanish. I used a service called [IVS Global]() in New Delhi (used it for my India apostille and translation work too, see below).
+
+
 ### Health Insurance
-Sanitas expat, and atlantida. Need to disclose previous health issues and back and forth for a bit. Quote for student visa. I ended up going with swisscare.
+The visa 
+The rest of your content lives here. You can use **Markdown** here :) I ended up going with swisscare.
 
 ### Medical Certificate
 From any doctor that knows you well and includes the required statement. Then sent for apostille using [[IVS Global]] in Delhi
@@ -29,3 +41,8 @@ BLS India has a whole portal where you enter your information and then book an a
 * Health Insurance: 
 * Medical Certificate: 
 * Apostille: 
+
+
+General pro-tips:
+ (They were pretty on time, but as with anything in India, I recommend contacting them often and telling them your deadline in order to get stuff done on time. I had to cancel an initial appointment for no refund because of delays.) Depending on availability, wait until you are certain of all documents before booking. BLS website is also hella janky, so once i cancelled an appt, i had to wait 48hrs cooldown period, WHICH they are not clear about at all, so i logged in in 2 calendar days. Which caused a 4day delay.*
+BLS is also super annoying in that they take everything you give them. 

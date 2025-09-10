@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Colophon.md",
+                "file": "content/Now.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colophon"
+              "title": "Now"
             }
           },
           {
@@ -230,9 +230,9 @@
   },
   "active": "d9e0ab1e60bab40b",
   "lastOpenFiles": [
+    "content/Colophon.md",
     "content/Friendships as adults.md",
     "content/Statistics, or what do the numbers say.md",
-    "content/Colophon.md",
     "content/Cloud Skills.md",
     "content/Burnout Recovery Toolkit.md",
     "content/Spanish/Learning Spanish.md",

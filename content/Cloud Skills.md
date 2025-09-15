@@ -2,6 +2,7 @@
 title: Starting a Career in Cloud Technologies
 draft: false
 tags:
+  - learning
 ---
 Not too long ago, I made a living working as a Technology Consultant specializing in Cloud Technologies for enterprise scale in various industries. So in this note, I'll refer back to that experience as a way to jog my own memory, as well as define a sort of path for anyone wanting to figure out exactly what a career in the space might entail.
 

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Now.md",
+                "file": "content/Statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Now"
+              "title": "Statistics"
+            }
+          },
+          {
+            "id": "aeed47eb9f22dbfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Learning well.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning well"
             }
           },
           {
@@ -230,10 +244,13 @@
   },
   "active": "d9e0ab1e60bab40b",
   "lastOpenFiles": [
+    "content/LSE Workshop about Data Sets.md",
+    "content/Statistics.md",
+    "content/Learning well.md",
+    "content/Cloud Skills.md",
+    "content/Now.md",
     "content/Colophon.md",
     "content/Friendships as adults.md",
-    "content/Statistics, or what do the numbers say.md",
-    "content/Cloud Skills.md",
     "content/Burnout Recovery Toolkit.md",
     "content/Spanish/Learning Spanish.md",
     "Untitled Kanban.md",
@@ -241,13 +258,11 @@
     "content/Graduate School.md",
     "content/Why I'm studying Economics.md",
     "content/Move to Barcelona.md",
-    "content/Now.md",
     "content/Learning.md",
     "content/index.md",
     "content/Things I've tried.md",
     "templates/Note-template.md",
     "content/Immigration.md",
-    "content/LSE Workshop about Data Sets.md",
     "content/Motivation.md",
     "content/Medical.md",
     "content/Planning Procrastination.md",
@@ -255,7 +270,6 @@
     "content/First week.md",
     "Untitled.md",
     "content/Anti-Library.md",
-    "content/What even is a digital garden.md",
     "content/Spanish",
     "public/Cool-Links-og-image.webp",
     "Untitled.canvas",

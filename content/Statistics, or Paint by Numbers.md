@@ -7,29 +7,6 @@ created: 2025-09-09
 last-modified: 2025-09-09
 status:
 ---
-%% Data is the new buzzword
-
-But you cant get all the data,
-you get a small section of it
-
-then you try to desribe or inference from it
-
-Stats gives you the tools for that.
-
-describe the data:
-
-Central tendencies
-
-and measures of spread
-
-and maybe descriptions can be accurate or inaccurate
-
-We can't talk about models and not think of stats. A big part of what we're trying to do here is too see, understand, describe and predict the world. 
-
-Physically impossible to test every single 
-
- %%
-
 Economists love models, and Statistics and Math are the language we use to wax poetic about them. Let's dive into the basics!
 
 Think of Statistics as using numbers to paint a picture. The goal here is to  understand, describe or predict a situation. This involves getting our hands on some data, formulating our questions, then wrangling the data to get as close to our answers as we can, using the variety of tools we have at our disposal.

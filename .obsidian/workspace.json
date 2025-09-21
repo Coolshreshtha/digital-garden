@@ -4,80 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "dd57504fce128139",
+        "id": "3f793d81afb5edfb",
         "type": "tabs",
         "children": [
           {
-            "id": "d9e0ab1e60bab40b",
+            "id": "1966b27fe0e27098",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Statistics, or Paint by Numbers.md",
+                "file": "content/The different faction of Economic data wranglign software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistics, or Paint by Numbers"
+              "title": "The different faction of Economic data wranglign software"
             }
           },
           {
-            "id": "aeed47eb9f22dbfa",
+            "id": "bef3e3c4a197af2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Learning well.md",
+                "file": "content/10,000 Days.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning well"
+              "title": "10,000 Days"
             }
           },
           {
-            "id": "61d8a911550f8d66",
+            "id": "7a1578c3fd2b8037",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Learning"
-            }
-          },
-          {
-            "id": "9294c47717b4a308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/What even is a digital garden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What even is a digital garden"
-            }
-          },
-          {
-            "id": "f7573d54e8fea287",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Colophon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Colophon"
+              "type": "big-calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Big Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,14 +211,18 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e49b1abc446a5fb9",
+  "active": "bef3e3c4a197af2c",
   "lastOpenFiles": [
-    "content/LSE Workshop about Data Sets.md",
+    "content/10,000 Days.md",
+    "content/The different faction of Economic data wranglign software.md",
+    "content/Colophon.md",
+    "content/What even is a digital garden.md",
+    "content/Learning.md",
     "content/Statistics, or Paint by Numbers.md",
+    "content/LSE Workshop about Data Sets.md",
     "content/Learning well.md",
     "content/Cloud Skills.md",
     "content/Now.md",
-    "content/Colophon.md",
     "content/Friendships as adults.md",
     "content/Burnout Recovery Toolkit.md",
     "content/Spanish/Learning Spanish.md",
@@ -258,7 +231,6 @@
     "content/Graduate School.md",
     "content/Why I'm studying Economics.md",
     "content/Move to Barcelona.md",
-    "content/Learning.md",
     "content/index.md",
     "content/Things I've tried.md",
     "templates/Note-template.md",
@@ -267,9 +239,6 @@
     "content/Medical.md",
     "content/Planning Procrastination.md",
     "content/Projects.md",
-    "content/First week.md",
-    "Untitled.md",
-    "content/Anti-Library.md",
     "content/Spanish",
     "public/Cool-Links-og-image.webp",
     "Untitled.canvas",

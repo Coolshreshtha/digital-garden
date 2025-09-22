@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0a4dac4dec86c947",
+        "id": "784d40eaad43b9f1",
         "type": "tabs",
         "children": [
           {
-            "id": "d6516e025c37e72e",
+            "id": "d1080ba251436458",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/10,000 Days.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "10,000 Days"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "computer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +70,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,10 +181,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d6516e025c37e72e",
+  "active": "d1080ba251436458",
   "lastOpenFiles": [
-    "Kulshreshtha_Anushka_EPP.pdf",
+    "content/Statistics, or Paint by Numbers.md",
+    "content/The rush of something done.md",
+    "content/Undergrad in Computer Science.md",
+    "content/Why I'm studying Economics.md",
+    "content/Cool Links.md",
     "content/10,000 Days.md",
+    "Kulshreshtha_Anushka_EPP.pdf",
     "Kulshreshtha_Anushka_EPP .docx.pdf",
     "content/The different faction of Economic data wranglign software.md",
     "content/Now.md",
@@ -198,7 +198,6 @@
     "content/Colophon.md",
     "content/What even is a digital garden.md",
     "content/Learning.md",
-    "content/Statistics, or Paint by Numbers.md",
     "content/LSE Workshop about Data Sets.md",
     "content/Learning well.md",
     "content/Cloud Skills.md",
@@ -208,13 +207,10 @@
     "Untitled Kanban.md",
     "content/Grad School Systems.md",
     "content/Graduate School.md",
-    "content/Why I'm studying Economics.md",
     "content/Move to Barcelona.md",
     "content/index.md",
     "content/Things I've tried.md",
     "templates/Note-template.md",
-    "content/Immigration.md",
-    "content/Motivation.md",
     "content/Spanish",
     "public/Cool-Links-og-image.webp",
     "Untitled.canvas",

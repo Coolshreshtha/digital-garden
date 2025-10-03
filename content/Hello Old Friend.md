@@ -25,11 +25,25 @@ I'm also working on building more enabling (rather than restrictive) structure i
 Chhotu Daana Paani audit
 - [ ] Day start process
 	- time ?? (try to be consistent on all days)
+	-  6.45
+		- /|\
+		- W
+		- B
+		- F
+		- S
 	- essential pieces and optional pieces
 - [ ] Day end process
-	- 
+	- [ ] 22hr
+	- F-W
+	- C
+	- B
+	- R
 - [ ] Meal 4 part structure
 	- [ ] veg - carbs - protein - joy
+		- [ ] veg : carrot, tomato, cucumber, pre packed salad
+	- [ ] Pack lunches
+	- [ ] Plan brekky 
+	- [ ] Plan general brekky and lunch and dinner in weekly ritual
 - [ ] weekly venteaux ritual
 - [ ] Personal Manifesto 
 	

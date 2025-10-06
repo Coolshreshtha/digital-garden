@@ -1,10 +1,12 @@
 ---
 title:
-draft: true
+draft: false
 tags:
   - seed
-created: "2025-10-03"
-last-modified: "2025-10-03"
+  - personal
+  - life-systems
+created: 2025-10-03
+last-modified: 2025-10-03
 status:
 ---
 There are some patterns of behaviors, some roadblocks, that you keep running into. I have mine, like being late to things, and dealing with overwhelm (or at least have had these for the recent past).
@@ -19,7 +21,7 @@ But that is not to say all is lost. I find that recognizing where I am in the sp
 
 I'm also working on building more enabling (rather than restrictive) structure into my day, so I don't have to rely on my already-scarce mental resources in times of need. I've had good success with budgets, and daily schedules in the past, as well as processes for frequent things and chains of tasks. Another area of focus is food and water (I've been TERRIBLE about this lately and it shows.) Speaking of, I'm gonna make a checklist now to keep a eye on all this!
 
-(* I notice in overwhelming times, it can often be by the time you realise you are adrift from your own vibe. A manifesto will be reminder of what matters, and maybe even what is changing, as it inevitably does)
+(* I notice in overwhelming times, it can often be a minute by the time you realise you are adrift from your own vibe. A manifesto will be reminder of what matters, and maybe even what is changing, as it inevitably does)
 
 
 Chhotu Daana Paani audit
@@ -28,8 +30,8 @@ Chhotu Daana Paani audit
 	-  6.45
 		- /|\
 		- W
-		- B
 		- F
+		- B
 		- S
 	- essential pieces and optional pieces
 - [ ] Day end process
@@ -46,4 +48,6 @@ Chhotu Daana Paani audit
 	- [ ] Plan general brekky and lunch and dinner in weekly ritual
 - [ ] weekly venteaux ritual
 - [ ] Personal Manifesto 
+- [ ] weekly or biweekly mini-adventure??
+
 	

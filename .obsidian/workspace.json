@@ -55,12 +55,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Not losing the forest for the trees.md",
+                "file": "content/Ideas about what to do after grad school.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Not losing the forest for the trees"
+              "title": "Ideas about what to do after grad school"
+            }
+          },
+          {
+            "id": "eb543f72974d125a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Things that I value in my work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Things that I value in my work"
+            }
+          },
+          {
+            "id": "406e4c10b6a0339f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -102,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -267,34 +291,34 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "9a87944e33542a30",
+  "active": "406e4c10b6a0339f",
   "lastOpenFiles": [
-    "docs/advanced/paths.md",
+    "content/Careers dance.md",
+    "content/Emotional Health Toolkit.md",
+    "content/Budget micro and macro ties together.md",
+    "content/abcd.md",
+    "content/Learning well.md",
+    "content/Movement.md",
+    "content/The different faction of Economic data wranglign software.md",
+    "content/Medical.md",
+    "content/Things that I value in my work.md",
+    "content/Things I've tried.md",
     "content/Not losing the forest for the trees.md",
+    "content/Projects.md",
+    "content/Graduate School.md",
+    "content/4 weeks.md",
+    "content/Reference for cool things.md",
+    "content/Ideas about what to do after grad school.md",
+    "content/Why I'm studying Economics.md",
+    "content/NYC.md",
+    "content/Immigration.md",
+    "docs/advanced/paths.md",
     "docs/features/breadcrumbs.md",
     "docs/advanced/index.md",
     "docs/features/index.md",
     "docs/features/backlinks.md",
     "templates/Note-template.md",
     "README.md",
-    "content/Move to Barcelona.md",
-    "content/Motivation.md",
-    "content/Spain Student Visa.md",
-    "content/FWL and Controlling for.md",
-    "content/Finance.md",
-    "content/Things that I value in my work.md",
-    "content/Ideas about what to do after grad school.md",
-    "content/Budget micro and macro ties together.md",
-    "content/Careers dance.md",
-    "content/Latex cheat sheet.md",
-    "content/4 weeks.md",
-    "content/Hello Old Friend.md",
-    "content/abcd.md",
-    "content/NYC.md",
-    "content/Machine Learning is an Editor with no sense of morals.md",
-    "content/Statistics, or Paint by Numbers.md",
-    "content/The rush of something done.md",
-    "content/Undergrad in Computer Science.md",
     "Kulshreshtha_Anushka_EPP.pdf",
     "Kulshreshtha_Anushka_EPP .docx.pdf",
     "content/Spanish",

@@ -9,7 +9,7 @@ created: 2025-09-26
 last-modified: 2025-09-26
 status:
 ---
-Today marks the end of week 4 of graduate school. There's this peculiar thing about time that it manages to feel too long and too short at the same time.
+Today marks the end of week 4 of [[Graduate School]]. There's this peculiar thing about time that it manages to feel too long and too short at the same time.
 
 I've been in Barcelona for a little less than a month now. 
 

@@ -3,6 +3,7 @@ title:
 draft: true
 tags:
   - seed
+  - miya
 created: 2025-10-06
 last-modified: 2025-10-06
 status:
@@ -20,4 +21,4 @@ regression idea
 
 then compensate for it
 
-FWL 
+[[FWL and Controlling for]] 

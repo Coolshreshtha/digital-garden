@@ -3,8 +3,9 @@ title:
 draft: true
 tags:
   - seed
-created: "2025-10-07"
-last-modified: "2025-10-07"
+  - personal
+created: 2025-10-07
+last-modified: 2025-10-07
 status:
 ---
 I've said a fair bit about things I dont like to have at work. But this will focus on the things that I do
@@ -20,5 +21,5 @@ I've said a fair bit about things I dont like to have at work. But this will foc
 *  This is a more complicated idea that feels clearer in my head than it does in words. But I feel like work is a way to spend life, and you should choose of way that feels right with your values and how you want to spend life
 * More and more, as the feeling of finitude of life is setting in and also as I get a better sense of how the world and life works, I'm looking for work to engage in that appeals to my strengths. That is not to say that i wouldn't learn difficult stuff, there is a time and place for everything. But I also believe that things shouldnt be a struggle for the aake of it. I would put in the struggle and hard work if that takes me closer to what is valuable to me. But I think appealing to my strengths gives me a better shot of doing stuff and having a good time while doing it. Not everything in life has to be arduous.
 
-* I gave live with closing a few doors in terms of jobs and people tbh
-* 
+* I can live with closing a few doors in terms of jobs and people tbh
+* There is enough cool things that I do I list in [[Projects]] and [[Things I've tried | Things I've done before]] 

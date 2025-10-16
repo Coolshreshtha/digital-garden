@@ -25,3 +25,9 @@ Gracia, Eixample, Sant Antoni, Sarria-Sant Gervasi, Poblenou  if you intent to l
 
 NOT El Raval, El Born, Ciutat Vella, La Mina
 
+
+### Paperwork once you get here
+
+Padron
+
+Tie

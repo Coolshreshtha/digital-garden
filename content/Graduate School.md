@@ -17,5 +17,5 @@ My undergraduate major was Computer Science, so there as lot of Economics ground
 
 
 ![[data science 10-27 1.svg]]
-!
+
 $$\beta+\beta_2$$

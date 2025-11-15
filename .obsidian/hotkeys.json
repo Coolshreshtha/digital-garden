@@ -1,11 +1,20 @@
 {
-  "smart-random-note:open-random-note": [
+  "smart-random-note:open-tagged-random-note": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
       "key": "`"
+    }
+  ],
+  "smart-random-note:open-random-note-from-search": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ","
     }
   ]
 }

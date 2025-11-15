@@ -12,3 +12,7 @@ My rationale for picking the program [[Why I'm studying Economics]]
 For the logistics, [[Move to Barcelona]].
 
 My undergraduate major was Computer Science, so there as lot of Economics ground to cover before I start the program. I'm spending a fair bit of time right now to figure out a good system for the program (not to mention I love nerding over digital systems). [[Grad School Systems]]
+
+![[Screenshot 2025-10-12 204645.png]][[data science 10-27 1.svg]]
+
+$$\beta+\beta_2$$

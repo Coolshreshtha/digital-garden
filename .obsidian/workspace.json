@@ -473,9 +473,11 @@
   },
   "active": "362b69753f4c8370",
   "lastOpenFiles": [
+    "content/10 Weeks into Grad School.md",
+    "asset/data science 10-27 1.svg",
+    "content/Graduate School.md",
     "asset/Screenshot 2025-10-12 204645.png",
     "content/Young nations and their evolving identity in Media.md",
-    "asset/data science 10-27 1.svg",
     "content/The trade off between AI cognition and my own.md",
     "content/The balance between using AI and getting value from Ai.md",
     "templates/Note-template.md",
@@ -486,7 +488,6 @@
     "node_modules/ms/license.md",
     "content/Obsidian Plugins.md",
     "content/Colophon.md",
-    "content/10 Weeks into Grad School.md",
     "content/Untitled.base",
     "docs/build.md",
     "docs/CODE_OF_CONDUCT.md",
@@ -500,7 +501,6 @@
     "docs/migrating from Quartz 3.md",
     "docs/plugins/Assets.md",
     "node_modules/gray-matter/CHANGELOG.md",
-    "templates/Default.md",
     "Kulshreshtha_Anushka_EPP.pdf",
     "Kulshreshtha_Anushka_EPP .docx.pdf",
     "content/Spanish",
@@ -518,7 +518,6 @@
     "public/Managing-a-career-og-image.webp",
     "public/Cloud-Skills-og-image.webp",
     "public/self-development.html",
-    "public/Now.html",
-    "public/Anti-Library-og-image.webp"
+    "public/Now.html"
   ]
 }

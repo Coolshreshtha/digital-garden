@@ -79,8 +79,7 @@
               "title": "The trade off between AI cognition and my own"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6d9a8f44bc419e19",
@@ -256,10 +254,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "77d8281befa98d32",
+  "active": "e2882596732d0a1a",
   "lastOpenFiles": [
-    "content/The balance between using AI and getting value from Ai.md",
     "content/The trade off between AI cognition and my own.md",
+    "content/The balance between using AI and getting value from Ai.md",
     "content/10 Weeks into Grad School.md",
     "content/Untitled.base",
     "README.md",

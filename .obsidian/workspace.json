@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/10 Weeks into Grad School.md",
+                "file": "content/Obsidian Plugins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10 Weeks into Grad School"
+              "title": "Obsidian Plugins"
             }
           },
           {
@@ -256,12 +256,12 @@
   },
   "active": "e2882596732d0a1a",
   "lastOpenFiles": [
-    "content/The trade off between AI cognition and my own.md",
-    "content/The balance between using AI and getting value from Ai.md",
+    "content/Colophon.md",
     "content/10 Weeks into Grad School.md",
+    "content/The balance between using AI and getting value from Ai.md",
+    "content/The trade off between AI cognition and my own.md",
     "content/Untitled.base",
     "README.md",
-    "content/Colophon.md",
     "docs/build.md",
     "docs/CODE_OF_CONDUCT.md",
     "content/Personal Finance Toolkit (US).md",

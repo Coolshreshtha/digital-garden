@@ -1,3 +1,12 @@
+---
+title:
+draft: true
+tags:
+  - seed
+created: "2025-11-15"
+last-modified: "2025-11-15"
+status:
+---
 
 I notice we are doing a lot of sessions that are, let me say, corny. 
 

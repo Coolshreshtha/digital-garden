@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Ai writing and using brain.md",
+                "file": "content/The trade off between AI cognition and my own.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ai writing and using brain"
+              "title": "The trade off between AI cognition and my own"
             }
           }
         ],
@@ -259,7 +259,7 @@
   "active": "77d8281befa98d32",
   "lastOpenFiles": [
     "content/The balance between using AI and getting value from Ai.md",
-    "content/Ai writing and using brain.md",
+    "content/The trade off between AI cognition and my own.md",
     "content/10 Weeks into Grad School.md",
     "content/Untitled.base",
     "README.md",

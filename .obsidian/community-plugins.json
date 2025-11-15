@@ -6,5 +6,8 @@
   "templater-obsidian",
   "dataview",
   "obsidian42-brat",
-  "obsidian-projects"
+  "obsidian-projects",
+  "tasknotes",
+  "smart-random-note",
+  "simple-time-tracker"
 ]

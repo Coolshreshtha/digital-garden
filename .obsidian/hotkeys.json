@@ -1,0 +1,11 @@
+{
+  "smart-random-note:open-random-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "`"
+    }
+  ]
+}

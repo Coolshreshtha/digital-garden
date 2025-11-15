@@ -4,129 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "784d40eaad43b9f1",
+        "id": "039c19ddfee665b3",
         "type": "tabs",
         "children": [
           {
-            "id": "94413311da62bc01",
+            "id": "e2882596732d0a1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Careers dance.md",
+                "file": "content/10 Weeks into Grad School.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Careers dance"
+              "title": "10 Weeks into Grad School"
             }
           },
           {
-            "id": "141eca1bbfec78db",
+            "id": "de453b35fdeb212c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Ideas about what to do after grad school.md",
+                "file": "content/The balance between using AI and getting value from Ai.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Ideas about what to do after grad school"
+              "title": "The balance between using AI and getting value from Ai"
             }
           },
           {
-            "id": "1879d2059cbdc96c",
+            "id": "77d8281befa98d32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/advanced/paths.md",
+                "file": "content/Ai writing and using brain.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "paths"
-            }
-          },
-          {
-            "id": "9a87944e33542a30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Ideas about what to do after grad school.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ideas about what to do after grad school"
-            }
-          },
-          {
-            "id": "eb543f72974d125a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Things that I value in my work.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Things that I value in my work"
-            }
-          },
-          {
-            "id": "406e4c10b6a0339f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "d9ae852ebefa73c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/FWL and Controlling for.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FWL and Controlling for"
-            }
-          },
-          {
-            "id": "9ee20247899c1cc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Budget micro and macro ties together.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Budget micro and macro ties together"
-            }
-          },
-          {
-            "id": "6b5e5f5ed000dffb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ai writing and using brain"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6d9a8f44bc419e19",
@@ -276,6 +231,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open notes": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -288,37 +252,39 @@
       "templater-obsidian:Templater": false,
       "daily-notes:Open today's daily note": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "406e4c10b6a0339f",
+  "active": "77d8281befa98d32",
   "lastOpenFiles": [
-    "content/Careers dance.md",
-    "content/Emotional Health Toolkit.md",
-    "content/Budget micro and macro ties together.md",
-    "content/abcd.md",
-    "content/Learning well.md",
-    "content/Movement.md",
-    "content/The different faction of Economic data wranglign software.md",
-    "content/Medical.md",
-    "content/Things that I value in my work.md",
-    "content/Things I've tried.md",
-    "content/Not losing the forest for the trees.md",
-    "content/Projects.md",
-    "content/Graduate School.md",
-    "content/4 weeks.md",
-    "content/Reference for cool things.md",
-    "content/Ideas about what to do after grad school.md",
-    "content/Why I'm studying Economics.md",
-    "content/NYC.md",
-    "content/Immigration.md",
-    "docs/advanced/paths.md",
-    "docs/features/breadcrumbs.md",
-    "docs/advanced/index.md",
-    "docs/features/index.md",
-    "docs/features/backlinks.md",
-    "templates/Note-template.md",
+    "content/The balance between using AI and getting value from Ai.md",
+    "content/Ai writing and using brain.md",
+    "content/10 Weeks into Grad School.md",
+    "content/Untitled.base",
     "README.md",
+    "content/Colophon.md",
+    "docs/build.md",
+    "docs/CODE_OF_CONDUCT.md",
+    "content/Personal Finance Toolkit (US).md",
+    "node_modules/pako/CHANGELOG.md",
+    "docs/plugins/CNAME.md",
+    "docs/layout-components.md",
+    "content/Reference for cool things.md",
+    "docs/features/private pages.md",
+    "content/Ideas about what to do after grad school.md",
+    "docs/advanced/paths.md",
+    "docs/migrating from Quartz 3.md",
+    "docs/plugins/Assets.md",
+    "node_modules/gray-matter/CHANGELOG.md",
+    "templates/Default.md",
+    "content/Things that I value in my work.md",
+    "content/Digital Economy of Data.md",
+    "content/Budget micro and macro ties together.md",
+    "content/Careers dance.md",
+    "content/Getting the TIE.md",
+    "content/Default communities.md",
+    "content/Burnout Recovery Toolkit.md",
     "Kulshreshtha_Anushka_EPP.pdf",
     "Kulshreshtha_Anushka_EPP .docx.pdf",
     "content/Spanish",
@@ -337,7 +303,6 @@
     "public/Cloud-Skills-og-image.webp",
     "public/self-development.html",
     "public/Now.html",
-    "public/Map-Of-Content.html",
     "public/Anti-Library-og-image.webp",
     "public/index-og-image.webp"
   ]

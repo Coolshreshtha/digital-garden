@@ -1,10 +1,8 @@
 ---
-title: 
-draft: true
-tags: 
+title:
+draft: false
+tags:
+  - money
 date:
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
-
-2025-06-28
+The general principles of financial planning stay the same: Budget, Save Short term, Save Long Term, Invest, Income.

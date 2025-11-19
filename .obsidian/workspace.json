@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "039c19ddfee665b3",
+        "id": "9f21128fb01c027b",
         "type": "tabs",
         "children": [
           {
-            "id": "e2882596732d0a1a",
+            "id": "3e740f49d630b16b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Obsidian Plugins.md",
+                "file": "content/Myth of the career woman.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,275 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian Plugins"
-            }
-          },
-          {
-            "id": "af37c55cd9929d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "node_modules/ms/license.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "license"
-            }
-          },
-          {
-            "id": "7f7f5296aeeded7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "ac218ba67014b3fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "687c92ed4580dff0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "43fc41b4e8a7e771",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/plugins/ContentIndex.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ContentIndex"
-            }
-          },
-          {
-            "id": "e7f214cb37deeea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "e4c1ff6bdc48805f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "node_modules/pako/CHANGELOG.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CHANGELOG"
-            }
-          },
-          {
-            "id": "2e0f85f71601bed8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "6e46339118d2d539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Note-template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Note-template"
-            }
-          },
-          {
-            "id": "77d8281befa98d32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/The trade off between AI cognition and my own.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The trade off between AI cognition and my own"
-            }
-          },
-          {
-            "id": "362b69753f4c8370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Graduate School.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Graduate School"
+              "title": "Myth of the career woman"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -315,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:personal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -354,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6d9a8f44bc419e19",
@@ -468,26 +204,32 @@
       "daily-notes:Open today's daily note": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-projects:Open projects": false,
-      "smart-random-note:Open Random Note from Search": false
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2def0dce8436c194",
+  "active": "3e740f49d630b16b",
   "lastOpenFiles": [
-    "content/10 Weeks into Grad School.md",
-    "content/attachments/data science 10-27 1.svg",
-    "content/Graduate School.md",
-    "content/attachments/Screenshot 2025-10-12 204645.png",
-    "content/Young nations and their evolving identity in Media.md",
-    "content/The trade off between AI cognition and my own.md",
-    "content/The balance between using AI and getting value from Ai.md",
+    "content/Burnout Recovery Toolkit.md",
+    "content/Myth of the career woman.md",
     "templates/Note-template.md",
-    "content/Finance.md",
+    "content/Hello Old Friend.md",
+    "content/Spain Student Visa.md",
+    "content/Grad School Systems.md",
+    "content/Colophon.md",
+    "content/The trade off between AI cognition and my own.md",
     "README.md",
     "node_modules/pako/CHANGELOG.md",
     "docs/plugins/ContentIndex.md",
     "node_modules/ms/license.md",
     "content/Obsidian Plugins.md",
-    "content/Colophon.md",
+    "content/Graduate School.md",
+    "content/10 Weeks into Grad School.md",
+    "content/attachments/data science 10-27 1.svg",
+    "content/attachments/Screenshot 2025-10-12 204645.png",
+    "content/Young nations and their evolving identity in Media.md",
+    "content/The balance between using AI and getting value from Ai.md",
+    "content/Finance.md",
     "content/Untitled.base",
     "docs/build.md",
     "docs/CODE_OF_CONDUCT.md",
@@ -497,10 +239,6 @@
     "content/Reference for cool things.md",
     "docs/features/private pages.md",
     "content/Ideas about what to do after grad school.md",
-    "docs/advanced/paths.md",
-    "docs/migrating from Quartz 3.md",
-    "docs/plugins/Assets.md",
-    "node_modules/gray-matter/CHANGELOG.md",
     "Kulshreshtha_Anushka_EPP.pdf",
     "Kulshreshtha_Anushka_EPP .docx.pdf",
     "content/Spanish",

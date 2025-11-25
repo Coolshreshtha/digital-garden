@@ -1,0 +1,25 @@
+
+I'm working on finding that happy medium with social and info media, where I get all the necessary information and connection, without the information fatigue. In an ideal world, this would look like being off of all attention-economy social media, having a whatsapp like private tool that helps me maintain connection with all my loved ones spread across the world, and a news-aggregator in text+audio form. Of course, we don't live in an ideal world.
+
+As for why, I think I just live a better life the less inundated I am with information glut. I'm happier, more satisfied with life, and even have better mental health. I am a very curious person, and I notice a lot of these tools take advantage of that, and I'm not always strong enough to resist it (big ethics questions on how these tools take advantage of vulnerable people and their attention dysregulation)
+
+
+
+I think our brains are just not wired for all the information that's thrown at us today. Even if it is "voluntary" consumption, is it really voluntary if these channels are designed with all that science has to offer, to tap into our most human needs like curiosity, fear and connection, and we're supposed to hold our own against it. At best, it's a waste of our time and resources and at worst, it's exploitative. It's skeevy how this whole space is not better regulated. 
+But on the other side, I have definitely benefited from social media in my life. I went to college in the US because I was able to use Facebook (the old timey, cool one) to connect with kids older than me and figure out how the applications are done and what you need to do in order to present your best self. Today, I have loved ones scattered all over the world and I definitely want to stay more in touch with them. 
+
+For me, I think it comes down to the benefits and costs of using it. 
+To that end, I've cut down massively on my social media (and general info-media) usage. I have a bajillion locks and timers on my phone and computer browser to limit my consumption of social media and information glut.
+
+I have a weird, nameless instagram acct that is mostly deactivated, along with a feed blocker and usage timer on both phone and computer (I also. I have deactivated facebook. The
+
+I think our brains are just not wired for all the information that's thrown at us today. Even if it is "voluntary" consumption, is it really voluntary if these channels are designed with all that science has to offer, to tap into our most human needs like curiosity, fear and connection, and we're supposed to hold our own against it. At best, it's a waste of our time and resources and at worst, it's exploitative.  It's skeevy how this whole space is not better regulated. 
+
+But on the other side, I have definitely benefited from social media in my life. I went to college in the US because I was able to use Facebook (the old timey, cool one) to connect with kids older than me and figure out how the applications are done and what you need to do in order to present your best self. Today, I have loved ones scattered all over the world and I definitely want to stay more in touch with them. 
+
+I think it comes down to the benefits and costs of using it. 
+To that end, I've cut down massively on my social media (and general info-media) usage. My only reliably-active social media is Linkedin (because I need a job), but I have a feed blocker on both my phone and computer. I also have a bajillion locks and timers on my phone and computer browser to limit my consumption (ex, a 5 min limit on reddit on computer that resets every 4 hrs, a feed blocker for all feeds, delay-apps create a 5-20 sec delay on most info apps to disconnect impulse and reward, and many others). I have experimented with multiple ways of staying in touch with folks besides whatsapp and phone, like starting a newsletter or creating a personal website, but haven't nailed it just yet.
+
+The effects have been gradual, since I got to my current habits and systems through a long, iterative process. I'm writing more these day, not always with the intent of publishing. I'm a full time grad student these days, so that takes up a lot of my time. But back when I wasn't, for instance in the last year or so, I spent a lot of my online consumption on specific projects, like learning to build digital note-taking and task management systems, or figuring out a career pivot. That's actually how I ended up studying Economics. 
+
+These systems are not perfect. For one, a lot of my consumption is automatic, often in the form of procrastination. These days, most of my consumption comes from news-websites, Linkedin feed, some reddit, Youtube and podcasts. Over time, I would love to tip the scales to a smaller but more intentional amount of online consumption, with more time to digest and process, maybe even occasionally create. Ultimately, I'd like to come out of it feeling like I had a nice, satisfying meal, rather than as if I had whole plate of grocery store pigs-in-a-blanket and regret it after.  

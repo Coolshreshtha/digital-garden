@@ -21,5 +21,6 @@ The yellow/jessica catch all notebook
 
 
 
-WOuld i benefit form adding a tablet to the mix
+
+WOuld i benefit form adding a tablet to the mix? would it help or hurt?
 

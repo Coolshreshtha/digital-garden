@@ -1,6 +1,6 @@
 {
   "disableDoubleClickTextEditing": false,
-  "folder": "Excalidraw",
+  "folder": "content/attachments",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
@@ -17,7 +17,7 @@
   "autosave": true,
   "autosaveIntervalDesktop": 60000,
   "autosaveIntervalMobile": 30000,
-  "drawingFilenamePrefix": "Drawing ",
+  "drawingFilenamePrefix": "",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",

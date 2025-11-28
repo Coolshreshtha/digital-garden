@@ -6,7 +6,7 @@ tags:
 Guitar
 Tennis
 Swimming
-Economics
+[[Economics]]
 Art History
 Working Front of House
 Percussion

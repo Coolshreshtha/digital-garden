@@ -22,4 +22,3 @@ Cool to learn about myself as well. I feel like i'm seeing a new side of me that
 BSE has been pretty fun so far. The program started off really intense but has now settled into a busy but not painful pace (I hope I don't jinx it). We are also doing stuff that feels like proper economics and that has been a bit of a learning curve but in a very fulfilling way.
 
 
-I've been in Barcelona for a month, and 

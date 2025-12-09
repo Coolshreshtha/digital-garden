@@ -78,9 +78,105 @@
               "icon": "lucide-file",
               "title": "Neurodifferences toolkit"
             }
+          },
+          {
+            "id": "02c8bb89fd083650",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Anxiety gets in the way of learning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Anxiety gets in the way of learning"
+            }
+          },
+          {
+            "id": "cb63b5d2610c0bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Prepping for grad school exams.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Prepping for grad school exams"
+            }
+          },
+          {
+            "id": "7c22c19e5bb4034e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Anxiety gets in the way of learning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Anxiety gets in the way of learning"
+            }
+          },
+          {
+            "id": "1c628833dde64cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Reflections after term 1 exams.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reflections after term 1 exams"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -256,10 +352,15 @@
       "smart-random-note:Open Random Note from Search": true
     }
   },
-  "active": "775b4806ce374928",
+  "active": "1c628833dde64cc7",
   "lastOpenFiles": [
-    "content/Economics.md",
+    "content/The balance between using AI and getting value from Ai.md",
+    "content/Reflections after term 1 exams.md",
+    "content/Anxiety gets in the way of learning.md",
+    "content/Perfection and guilt.md",
+    "content/Prepping for grad school exams.md",
     "content/Neurodifferences toolkit.md",
+    "content/Economics.md",
     "content/abcd.md",
     "content/Budget micro and macro ties together.md",
     "content/Wrapping up term 1 of grad school.md",
@@ -279,11 +380,6 @@
     "content/Adulting is chipping away at the big stuff.md",
     "content/Found in translation.md",
     "content/Why I'm studying Economics.md",
-    "content/The different faction of Economic data wranglign software.md",
-    "Daily-Notes/2025-11-27.md",
-    "templates/Default.md",
-    "content/Learning.md",
-    "content/Digital Economy of Data.md",
     "content/Untitled.base",
     "Excalidraw",
     "Daily-Notes",

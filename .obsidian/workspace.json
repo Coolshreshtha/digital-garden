@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "27ed832469ddce4c",
+        "id": "b217f301460331fb",
         "type": "tabs",
         "children": [
           {
-            "id": "b9718ede4c7d82dc",
+            "id": "d525f99e3337db8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Setting up Latex to work locally.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,155 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "269b457f1322ca98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Economics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Economics"
-            }
-          },
-          {
-            "id": "775b4806ce374928",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Neurodifferences toolkit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Neurodifferences toolkit"
-            }
-          },
-          {
-            "id": "02c8bb89fd083650",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Anxiety gets in the way of learning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Anxiety gets in the way of learning"
-            }
-          },
-          {
-            "id": "cb63b5d2610c0bf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Prepping for grad school exams.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Prepping for grad school exams"
-            }
-          },
-          {
-            "id": "7c22c19e5bb4034e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Anxiety gets in the way of learning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Anxiety gets in the way of learning"
-            }
-          },
-          {
-            "id": "1c628833dde64cc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Reflections after term 1 exams.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reflections after term 1 exams"
+              "title": "Setting up Latex to work locally"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tools",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -352,19 +207,27 @@
       "smart-random-note:Open Random Note from Search": true
     }
   },
-  "active": "1c628833dde64cc7",
+  "active": "d525f99e3337db8e",
   "lastOpenFiles": [
-    "content/The balance between using AI and getting value from Ai.md",
+    "content/What I Learnt in Term 1 of Economics Masters Program.md",
+    "content/Picking Classes for Economics Graduate Program.md",
+    "content/Setting up Latex to work locally.md",
+    "content/Thoughts about tools.md",
+    "Daily-Notes/2025-11-27.md",
+    "content/Strategizing about Graduate School Course selection and beyond.md",
+    "content/How do gender influence crypto attitudes men in and women like no thanks.md",
+    "content/Explore how many forbes 30 after 30 end up in fraud.md",
     "content/Reflections after term 1 exams.md",
     "content/Anxiety gets in the way of learning.md",
-    "content/Perfection and guilt.md",
     "content/Prepping for grad school exams.md",
     "content/Neurodifferences toolkit.md",
     "content/Economics.md",
+    "content/index.md",
+    "content/The balance between using AI and getting value from Ai.md",
+    "content/Perfection and guilt.md",
     "content/abcd.md",
     "content/Budget micro and macro ties together.md",
     "content/Wrapping up term 1 of grad school.md",
-    "content/index.md",
     "content/Masters in Economics of Public Policy.md",
     "content/Now.md",
     "content/Map Of Content.md",
@@ -372,14 +235,6 @@
     "content/Getting the TIE.md",
     "content/First week.md",
     "content/Colophon.md",
-    "content/Cool Links.md",
-    "content/Thoughts about tools.md",
-    "content/Spain Student Visa.md",
-    "content/Careers dance.md",
-    "content/Undergrad in Computer Science.md",
-    "content/Adulting is chipping away at the big stuff.md",
-    "content/Found in translation.md",
-    "content/Why I'm studying Economics.md",
     "content/Untitled.base",
     "Excalidraw",
     "Daily-Notes",

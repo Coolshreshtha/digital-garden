@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Code through the lense of computer scientists vs economists"
             }
+          },
+          {
+            "id": "093d70db0bea879f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -256,15 +280,16 @@
       "smart-random-note:Open Random Note from Search": true
     }
   },
-  "active": "e49b1abc446a5fb9",
+  "active": "093d70db0bea879f",
   "lastOpenFiles": [
+    "content/Code through the lense of computer scientists vs economists.md",
+    "content/Untitled.md",
     "content/attachments/2025-12-18 07.42.30.excalidraw.md",
     "content/Untitled Kanban.md",
     "content/Setting up obsidian on tab.md",
     "content/Review of term 1.md",
     "Untitled.canvas",
     "content/Using AI to manage grad school.md",
-    "content/Code through the lense of computer scientists vs economists.md",
     "content/Setting up Latex to work locally.md",
     "content/What I Learnt in Term 1 of Economics Masters Program.md",
     "content/Picking Classes for Economics Graduate Program.md",
@@ -284,7 +309,6 @@
     "content/abcd.md",
     "content/Budget micro and macro ties together.md",
     "content/Wrapping up term 1 of grad school.md",
-    "content/Masters in Economics of Public Policy.md",
     "content/Untitled.base",
     "Excalidraw",
     "Daily-Notes",

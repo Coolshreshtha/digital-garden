@@ -1,0 +1,1 @@
+I think a big part of learning Economics is learning how to translate in two languages. On one hand I have to translate english <-> math, and then I have to translate econ-ese <-> english, since the whole field seems to have a strong dislike for simple words when complicated will do.

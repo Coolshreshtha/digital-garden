@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Untitled.md",
+                "file": "content/Economics as translation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Economics as translation"
             }
           }
         ],
@@ -283,7 +283,7 @@
   "active": "093d70db0bea879f",
   "lastOpenFiles": [
     "content/Code through the lense of computer scientists vs economists.md",
-    "content/Untitled.md",
+    "content/Economics as translation.md",
     "content/attachments/2025-12-18 07.42.30.excalidraw.md",
     "content/Untitled Kanban.md",
     "content/Setting up obsidian on tab.md",

@@ -29,11 +29,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
-      if (fileData.dates) {
-        //segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
-        segments.push("Seed Planted: " + formatDate(fileData.dates.created) + ", ")
-        segments.push("Last watered: " + formatDate(fileData.dates.modified))
-      }
+      // if (fileData.dates) {
+      //   //segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+      //   segments.push("Seed Planted: " + formatDate(fileData.dates.created) + ", ")
+      //   segments.push("Last watered: " + formatDate(fileData.dates.modified))
+      // // 
 
       // Display reading time if enabled
       if (options.showReadingTime) {

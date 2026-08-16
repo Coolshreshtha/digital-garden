@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Economics as translation.md",
+                "file": "content/Now.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Economics as translation"
+              "title": "Now"
             }
           }
         ],
@@ -151,7 +151,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -282,9 +284,15 @@
   },
   "active": "093d70db0bea879f",
   "lastOpenFiles": [
-    "content/Code through the lense of computer scientists vs economists.md",
-    "content/Economics as translation.md",
     "content/attachments/2025-12-18 07.42.30.excalidraw.md",
+    "content/attachments/2026-08-16 11.10.55.excalidraw.md",
+    "content/attachments/2026-08-16 11.10.52.excalidraw.md",
+    "content/Now.md",
+    "content/Flip 5 Phones.md",
+    "content/10,000 Days.md",
+    "content/abcd.md",
+    "content/Economics as translation.md",
+    "content/Code through the lense of computer scientists vs economists.md",
     "content/Untitled Kanban.md",
     "content/Setting up obsidian on tab.md",
     "content/Review of term 1.md",
@@ -303,12 +311,6 @@
     "content/Prepping for grad school exams.md",
     "content/Neurodifferences toolkit.md",
     "content/Economics.md",
-    "content/index.md",
-    "content/The balance between using AI and getting value from Ai.md",
-    "content/Perfection and guilt.md",
-    "content/abcd.md",
-    "content/Budget micro and macro ties together.md",
-    "content/Wrapping up term 1 of grad school.md",
     "content/Untitled.base",
     "Excalidraw",
     "Daily-Notes",

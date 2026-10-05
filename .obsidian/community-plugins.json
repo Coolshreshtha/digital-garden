@@ -1,15 +1,11 @@
 [
   "obsidian-git",
   "obsidian-style-settings",
-  "obsidian-kanban",
-  "big-calendar",
   "templater-obsidian",
   "dataview",
   "obsidian42-brat",
   "obsidian-projects",
-  "tasknotes",
-  "smart-random-note",
-  "simple-time-tracker",
   "settings-search",
-  "obsidian-math-plus"
+  "obsidian-math-plus",
+  "front-matter-timestamps"
 ]

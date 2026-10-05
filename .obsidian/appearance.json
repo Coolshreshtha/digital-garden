@@ -1,5 +1,6 @@
 {
   "accentColor": "#c47b73",
   "cssTheme": "Origami",
-  "theme": "system"
+  "theme": "moonstone",
+  "showRibbon": true
 }

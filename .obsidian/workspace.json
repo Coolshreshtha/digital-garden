@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b217f301460331fb",
+        "id": "4ec110bb46267714",
         "type": "tabs",
         "children": [
           {
-            "id": "d525f99e3337db8e",
+            "id": "e6d23cb1f3e79369",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Setting up Latex to work locally.md",
+                "file": "Daily-Notes/2026-10-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Setting up Latex to work locally"
-            }
-          },
-          {
-            "id": "f0f3a0809c748e13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Using AI to manage grad school.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Using AI to manage grad school"
-            }
-          },
-          {
-            "id": "d3a43b3b5887bf85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Code through the lense of computer scientists vs economists.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Code through the lense of computer scientists vs economists"
-            }
-          },
-          {
-            "id": "093d70db0bea879f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Now.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Now"
+              "title": "2026-10-04"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,15 +183,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "tasknotes:Open mini calendar": false,
-      "tasknotes:Open advanced calendar": false,
-      "tasknotes:Open task list": false,
-      "tasknotes:Open notes": false,
-      "tasknotes:Open agenda": false,
-      "tasknotes:Open kanban board": false,
-      "tasknotes:Open pomodoro": false,
-      "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -272,33 +190,37 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "big-calendar:Big Calendar": false,
       "templater-obsidian:Templater": false,
       "daily-notes:Open today's daily note": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "smart-random-note:Open Random Note from Search": true
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "093d70db0bea879f",
+  "active": "e6d23cb1f3e79369",
   "lastOpenFiles": [
+    "content/Budget micro and macro ties together.md",
+    "Daily-Notes/2026-10-04.md",
+    "content/abcd.md",
+    "content/Economics-Notebook/Economics Python Projects.md",
+    "content/Untitled.base",
+    "content/Economics-Notebook",
+    "content/4 weeks.md",
+    "Untitled.canvas",
+    "Daily-Notes/2026-08-16.md",
+    "content/Setting up Latex to work locally.md",
+    "content/Using AI to manage grad school.md",
+    "content/Code through the lense of computer scientists vs economists.md",
+    "Untitled 1.canvas",
+    "content/Now.md",
     "content/attachments/2025-12-18 07.42.30.excalidraw.md",
     "content/attachments/2026-08-16 11.10.55.excalidraw.md",
     "content/attachments/2026-08-16 11.10.52.excalidraw.md",
-    "content/Now.md",
     "content/Flip 5 Phones.md",
     "content/10,000 Days.md",
-    "content/abcd.md",
     "content/Economics as translation.md",
-    "content/Code through the lense of computer scientists vs economists.md",
     "content/Untitled Kanban.md",
     "content/Setting up obsidian on tab.md",
     "content/Review of term 1.md",
-    "Untitled.canvas",
-    "content/Using AI to manage grad school.md",
-    "content/Setting up Latex to work locally.md",
     "content/What I Learnt in Term 1 of Economics Masters Program.md",
     "content/Picking Classes for Economics Graduate Program.md",
     "content/Thoughts about tools.md",
@@ -306,12 +228,6 @@
     "content/Strategizing about Graduate School Course selection and beyond.md",
     "content/How do gender influence crypto attitudes men in and women like no thanks.md",
     "content/Explore how many forbes 30 after 30 end up in fraud.md",
-    "content/Reflections after term 1 exams.md",
-    "content/Anxiety gets in the way of learning.md",
-    "content/Prepping for grad school exams.md",
-    "content/Neurodifferences toolkit.md",
-    "content/Economics.md",
-    "content/Untitled.base",
     "Excalidraw",
     "Daily-Notes",
     "content/attachments/data science 10-27 1.svg",
@@ -325,7 +241,6 @@
     "public/date-og-image.webp",
     "public/date.html",
     "public/Learning-og-image.webp",
-    "public/Learning.html",
     "public/self-development-og-image.webp",
     "public/Now-og-image.webp",
     "public/Map-Of-Content-og-image.webp",
